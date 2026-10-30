@@ -1,0 +1,81 @@
+C:\Users\anatolij.imgrund\source\repos\Simon_Says_Spiel\Simon_Says_Spiel\bin\Debug\net8.0-windows\Simon_Says_Spiel.exe
+C:\Users\anatolij.imgrund\source\repos\Simon_Says_Spiel\Simon_Says_Spiel\bin\Debug\net8.0-windows\Simon_Says_Spiel.deps.json
+C:\Users\anatolij.imgrund\source\repos\Simon_Says_Spiel\Simon_Says_Spiel\bin\Debug\net8.0-windows\Simon_Says_Spiel.runtimeconfig.json
+C:\Users\anatolij.imgrund\source\repos\Simon_Says_Spiel\Simon_Says_Spiel\bin\Debug\net8.0-windows\Simon_Says_Spiel.dll
+C:\Users\anatolij.imgrund\source\repos\Simon_Says_Spiel\Simon_Says_Spiel\bin\Debug\net8.0-windows\Simon_Says_Spiel.pdb
+C:\Users\anatolij.imgrund\source\repos\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\anatolij.imgrund\source\repos\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\anatolij.imgrund\source\repos\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel_MarkupCompile.cache
+C:\Users\anatolij.imgrund\source\repos\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel_MarkupCompile.lref
+C:\Users\anatolij.imgrund\source\repos\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\anatolij.imgrund\source\repos\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.g.resources
+C:\Users\anatolij.imgrund\source\repos\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anatolij.imgrund\source\repos\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.AssemblyInfoInputs.cache
+C:\Users\anatolij.imgrund\source\repos\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.AssemblyInfo.cs
+C:\Users\anatolij.imgrund\source\repos\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.csproj.CoreCompileInputs.cache
+C:\Users\anatolij.imgrund\source\repos\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.dll
+C:\Users\anatolij.imgrund\source\repos\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\refint\Simon_Says_Spiel.dll
+C:\Users\anatolij.imgrund\source\repos\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.pdb
+C:\Users\anatolij.imgrund\source\repos\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.genruntimeconfig.cache
+C:\Users\anatolij.imgrund\source\repos\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\ref\Simon_Says_Spiel.dll
+C:\Users\Natur\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\bin\Debug\net8.0-windows\Simon_Says_Spiel.exe
+C:\Users\Natur\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\bin\Debug\net8.0-windows\Simon_Says_Spiel.deps.json
+C:\Users\Natur\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\bin\Debug\net8.0-windows\Simon_Says_Spiel.runtimeconfig.json
+C:\Users\Natur\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\bin\Debug\net8.0-windows\Simon_Says_Spiel.dll
+C:\Users\Natur\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\bin\Debug\net8.0-windows\Simon_Says_Spiel.pdb
+C:\Users\Natur\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Natur\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Natur\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel_MarkupCompile.cache
+C:\Users\Natur\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel_MarkupCompile.lref
+C:\Users\Natur\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Natur\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.g.resources
+C:\Users\Natur\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natur\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.AssemblyInfoInputs.cache
+C:\Users\Natur\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.AssemblyInfo.cs
+C:\Users\Natur\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.csproj.CoreCompileInputs.cache
+C:\Users\Natur\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.dll
+C:\Users\Natur\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\refint\Simon_Says_Spiel.dll
+C:\Users\Natur\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.pdb
+C:\Users\Natur\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.genruntimeconfig.cache
+C:\Users\Natur\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\ref\Simon_Says_Spiel.dll
+C:\Users\Anatolij.Imgrund\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\bin\Debug\net8.0-windows\Simon_Says_Spiel.exe
+C:\Users\Anatolij.Imgrund\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\bin\Debug\net8.0-windows\Simon_Says_Spiel.deps.json
+C:\Users\Anatolij.Imgrund\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\bin\Debug\net8.0-windows\Simon_Says_Spiel.runtimeconfig.json
+C:\Users\Anatolij.Imgrund\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\bin\Debug\net8.0-windows\Simon_Says_Spiel.dll
+C:\Users\Anatolij.Imgrund\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\bin\Debug\net8.0-windows\Simon_Says_Spiel.pdb
+C:\Users\Anatolij.Imgrund\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Anatolij.Imgrund\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Anatolij.Imgrund\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel_MarkupCompile.cache
+C:\Users\Anatolij.Imgrund\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel_MarkupCompile.lref
+C:\Users\Anatolij.Imgrund\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Anatolij.Imgrund\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.g.resources
+C:\Users\Anatolij.Imgrund\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anatolij.Imgrund\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.AssemblyInfoInputs.cache
+C:\Users\Anatolij.Imgrund\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.AssemblyInfo.cs
+C:\Users\Anatolij.Imgrund\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.csproj.CoreCompileInputs.cache
+C:\Users\Anatolij.Imgrund\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.dll
+C:\Users\Anatolij.Imgrund\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\refint\Simon_Says_Spiel.dll
+C:\Users\Anatolij.Imgrund\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.pdb
+C:\Users\Anatolij.Imgrund\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.genruntimeconfig.cache
+C:\Users\Anatolij.Imgrund\OneDrive - Unternehmensgruppe Eckert\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\ref\Simon_Says_Spiel.dll
+T:\projects\Simon_Says_Spiel\Simon_Says_Spiel\bin\Debug\net8.0-windows\Simon_Says_Spiel.exe
+T:\projects\Simon_Says_Spiel\Simon_Says_Spiel\bin\Debug\net8.0-windows\Simon_Says_Spiel.deps.json
+T:\projects\Simon_Says_Spiel\Simon_Says_Spiel\bin\Debug\net8.0-windows\Simon_Says_Spiel.runtimeconfig.json
+T:\projects\Simon_Says_Spiel\Simon_Says_Spiel\bin\Debug\net8.0-windows\Simon_Says_Spiel.dll
+T:\projects\Simon_Says_Spiel\Simon_Says_Spiel\bin\Debug\net8.0-windows\Simon_Says_Spiel.pdb
+T:\projects\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\MainWindow.g.cs
+T:\projects\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\App.g.cs
+T:\projects\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel_MarkupCompile.cache
+T:\projects\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel_MarkupCompile.lref
+T:\projects\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\MainWindow.baml
+T:\projects\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.g.resources
+T:\projects\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.GeneratedMSBuildEditorConfig.editorconfig
+T:\projects\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.AssemblyInfoInputs.cache
+T:\projects\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.AssemblyInfo.cs
+T:\projects\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.csproj.CoreCompileInputs.cache
+T:\projects\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.dll
+T:\projects\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\refint\Simon_Says_Spiel.dll
+T:\projects\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.pdb
+T:\projects\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Says_Spiel.genruntimeconfig.cache
+T:\projects\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\ref\Simon_Says_Spiel.dll
+T:\projects\Simon_Says_Spiel\Simon_Says_Spiel\obj\Debug\net8.0-windows\Simon_Sa.21B7F7C2.Up2Date

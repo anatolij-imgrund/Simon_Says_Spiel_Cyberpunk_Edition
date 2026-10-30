@@ -1,0 +1,72 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ai_frame.png" />
+    <None Remove="assets\ai_frame.png" />
+    <None Remove="assets\background.jpg" />
+    <None Remove="assets\bg_sound.wav" />
+    <None Remove="assets\cyberpunk.mp3" />
+    <None Remove="assets\linse.png" />
+    <None Remove="assets\play.png" />
+    <None Remove="assets\player_frame.png" />
+    <None Remove="assets\player_left.png" />
+    <None Remove="assets\player_right.png" />
+    <None Remove="assets\robo_ai.png" />
+    <None Remove="assets\sound.png" />
+    <None Remove="assets\spiel_frame.png" />
+    <None Remove="assets\v_b_d.png" />
+    <None Remove="assets\v_b_h.png" />
+    <None Remove="assets\v_g_d.png" />
+    <None Remove="assets\v_g_h.png" />
+    <None Remove="assets\v_r_d.png" />
+    <None Remove="assets\v_r_h.png" />
+    <None Remove="assets\v_y_d.png" />
+    <None Remove="assets\v_y_h.png" />
+    <None Remove="assets\x_dark.jpg" />
+    <None Remove="assets\x_light.png" />
+    <None Remove="dancer_1.png" />
+    <None Remove="dancer_2.png" />
+    <None Remove="play.png" />
+    <None Remove="sound.png" />
+    <None Remove="v_b_d.png" />
+    <None Remove="v_b_h.png" />
+    <None Remove="v_g_d.png" />
+    <None Remove="v_g_h.png" />
+    <None Remove="v_r_d.png" />
+    <None Remove="v_r_h.png" />
+    <None Remove="v_y_d.png" />
+    <None Remove="v_y_h.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="assets\ai_frame.png" />
+    <Resource Include="assets\background.jpg" />
+    <Resource Include="assets\linse.png" />
+    <Resource Include="assets\play.png" />
+    <Resource Include="assets\player_frame.png" />
+    <Resource Include="assets\player_left.png" />
+    <Resource Include="assets\player_right.png" />
+    <Resource Include="assets\robo_ai.png" />
+    <Resource Include="assets\sound.png" />
+    <Resource Include="assets\spiel_frame.png" />
+    <Resource Include="assets\v_b_d.png" />
+    <Resource Include="assets\v_b_h.png" />
+    <Resource Include="assets\v_g_d.png" />
+    <Resource Include="assets\v_g_h.png" />
+    <Resource Include="assets\v_r_d.png" />
+    <Resource Include="assets\v_r_h.png" />
+    <Resource Include="assets\v_y_d.png" />
+    <Resource Include="assets\v_y_h.png" />
+    <Resource Include="assets\x_dark.jpg" />
+    <Resource Include="assets\x_light.png" />
+  </ItemGroup>
+
+</Project>

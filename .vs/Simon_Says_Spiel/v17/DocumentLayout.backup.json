@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Natur\\OneDrive - Unternehmensgruppe Eckert\\Simon_Says_Spiel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A069CF2B-92B0-43CE-A77F-F893B5045576}|Simon_Says_Spiel\\Simon_Says_Spiel.csproj|c:\\users\\natur\\onedrive - unternehmensgruppe eckert\\simon_says_spiel\\simon_says_spiel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A069CF2B-92B0-43CE-A77F-F893B5045576}|Simon_Says_Spiel\\Simon_Says_Spiel.csproj|solutionrelative:simon_says_spiel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A069CF2B-92B0-43CE-A77F-F893B5045576}|Simon_Says_Spiel\\Simon_Says_Spiel.csproj|c:\\users\\natur\\onedrive - unternehmensgruppe eckert\\simon_says_spiel\\simon_says_spiel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A069CF2B-92B0-43CE-A77F-F893B5045576}|Simon_Says_Spiel\\Simon_Says_Spiel.csproj|solutionrelative:simon_says_spiel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 6,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Natur\\OneDrive - Unternehmensgruppe Eckert\\Simon_Says_Spiel\\Simon_Says_Spiel\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Simon_Says_Spiel\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Natur\\OneDrive - Unternehmensgruppe Eckert\\Simon_Says_Spiel\\Simon_Says_Spiel\\MainWindow.xaml",
+              "RelativeToolTip": "Simon_Says_Spiel\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-21T13:05:17.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Natur\\OneDrive - Unternehmensgruppe Eckert\\Simon_Says_Spiel\\Simon_Says_Spiel\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Simon_Says_Spiel\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Natur\\OneDrive - Unternehmensgruppe Eckert\\Simon_Says_Spiel\\Simon_Says_Spiel\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Simon_Says_Spiel\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAL8BAAAAAAAAAAAAAK8BAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:05:14.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 14,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
